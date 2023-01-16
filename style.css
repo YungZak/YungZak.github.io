@@ -35,6 +35,13 @@ body {
   margin: 0;
 }
 
+.header_1 {
+  color: #24292f;
+  font-size: 14px;
+  line-height: 1.4;
+  margin: 0;
+}
+
 .line {
 color: black;
 border-style: solid;
